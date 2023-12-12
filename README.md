@@ -1,4 +1,4 @@
-# StoryMaker-Multi-Modal-Representation-for-Assisted-Learning
+# StoryMaker-Automated-Multi-Modal-Representation-And-Context-Aware-Chatboxs-for-Assisted-Learning
 StoryMaker is a progressive web application that allows for creating multi-modal representation from any given text, help reducing the prohibite cost of assisted learning using fine-tuned generative AI models.
 
 # Current Status
