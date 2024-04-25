@@ -17,6 +17,7 @@ I am not allowed to share the StoryMaker code since it's going under educational
 
 # Video Demo
 
-<a href="[http://www.youtube.com/watch?feature=player_embedded&v=nTQUwghvy5Q](https://youtu.be/6cwUQ6deCm0?si=3WvyaJqFFwYFU2nD)" target="_blank">
+[<a href="[http://www.youtube.com/watch?feature=player_embedded&v=nTQUwghvy5Q](https://youtu.be/6cwUQ6deCm0?si=3WvyaJqFFwYFU2nD)" target="_blank">
  <img src="http://img.youtube.com/vi/nTQUwghvy5Q/mqdefault.jpg" alt="Watch the video" width="240" height="180" border="10" />
 </a>
+](https://youtu.be/6cwUQ6deCm0?si=3WvyaJqFFwYFU2nD)
